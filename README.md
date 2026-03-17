@@ -1,4 +1,4 @@
-# Networked USB HID Mouse Controller (Nucleo F429ZI)
+# Networked USB HID Mouse Controller (Nucleo-F429ZI)
 
 **Module:** COMP2008 – Embedded Programming & IoT  
 
