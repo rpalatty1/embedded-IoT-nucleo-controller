@@ -28,7 +28,7 @@ Demonstrated low-level embedded, networking, and real-time system skills.
 - 'reset' – return to origin  
 - 'exit' – disconnect client  
 
-## Skills
+## Skills Demonstrated
 - Embedded systems & RTOS development  
 - Concurrency (threads, synchronisation, deadlock prevention)  
 - Network programming in constrained environments  
